@@ -13,7 +13,7 @@ Vide tutoriais do PI.
 # Nome do Projeto
 
 ## Nome do Grupo
-
+42
 ## Integrantes: <a href="https://www.linkedin.com/in/gustavobitencourts/">Gustavo Bitencourt Silva</a>, <a href="https://www.linkedin.com/in/jorge-alves-marinho/">Jorge Alves Marinho</a>, <a href="https://www.linkedin.com/in/matheus-breda-andreo-6796b1350/">Matheus Breda Andreo</a>, <a href="https://www.linkedin.com/in/caio-araujo-fonseca-aa6573260/">Caio Araujo Fonseca</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo Pinto</a>
@@ -21,7 +21,7 @@ Vide tutoriais do PI.
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+<img src="file:///C:/Users/25027720/Desktop/Gemini_Generated_Image_vnucvhvnucvhvnuc.jfif" alt="NOME DO JOGO" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
