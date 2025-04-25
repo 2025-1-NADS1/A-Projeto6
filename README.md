@@ -21,7 +21,7 @@ Vide tutoriais do PI.
 ## Descrição
 
 <p align="center">
-<img src="file:///C:/Users/25027720/Desktop/Gemini_Generated_Image_vnucvhvnucvhvnuc.jpeg" alt="NOME DO JOGO" border="0">
+<img src="a-digital-illustration-of-the-number-42-_35jIINtcRyaTW6hpLOZCPg_vVysJYUxSfyeKTYh-i-6LA.jpeg" alt="NOME DO JOGO" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
