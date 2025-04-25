@@ -27,7 +27,7 @@ Vide tutoriais do PI.
 
 
 Economize energia, ganhe em conforto e viva de forma inteligente com a Flex Automation!
-<br><br>
+<br>
 A crescente preocupação com o meio ambiente e o avanço da tecnologia nos inspiram a criar lares mais sustentáveis. Pensando nisso, a Flex Automation apresenta uma solução inovadora para a gestão eficiente do consumo de energia na sua casa. Imagine ter o controle total dos seus dispositivos residenciais em uma interface intuitiva e acessível. Visualize seu consumo energético em tempo real e receba dicas personalizadas para otimizar o uso dos recursos.
 Nosso novo sistema de monitoramento e controle residencial foi desenvolvido especialmente para famílias como a sua, que buscam unir tecnologia e consciência ambiental. Desfrute de um lar confortável, com mais qualidade de vida e uma significativa redução nos custos de energia.
 
