@@ -1,0 +1,48 @@
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.exe
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.deps.json
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.runtimeconfig.json
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.dll
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.pdb
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.Form1.resources
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.csproj.GenerateResource.cache
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.AssemblyInfoInputs.cache
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.AssemblyInfo.cs
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.csproj.CoreCompileInputs.cache
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.dll
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\obj\Debug\net8.0-windows\refint\FormsEntrega2.dll
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.pdb
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.genruntimeconfig.cache
+C:\Users\25027720\Desktop\PI SAVINO ENTREGA 1\FormsEntrega2\obj\Debug\net8.0-windows\ref\FormsEntrega2.dll
+C:\Users\gubit\Desktop\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.exe
+C:\Users\gubit\Desktop\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.deps.json
+C:\Users\gubit\Desktop\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.runtimeconfig.json
+C:\Users\gubit\Desktop\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.dll
+C:\Users\gubit\Desktop\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.pdb
+C:\Users\gubit\Desktop\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.Form1.resources
+C:\Users\gubit\Desktop\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.csproj.GenerateResource.cache
+C:\Users\gubit\Desktop\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gubit\Desktop\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.AssemblyInfoInputs.cache
+C:\Users\gubit\Desktop\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.AssemblyInfo.cs
+C:\Users\gubit\Desktop\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.csproj.CoreCompileInputs.cache
+C:\Users\gubit\Desktop\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.dll
+C:\Users\gubit\Desktop\FormsEntrega2\obj\Debug\net8.0-windows\refint\FormsEntrega2.dll
+C:\Users\gubit\Desktop\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.pdb
+C:\Users\gubit\Desktop\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.genruntimeconfig.cache
+C:\Users\gubit\Desktop\FormsEntrega2\obj\Debug\net8.0-windows\ref\FormsEntrega2.dll
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.exe
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.deps.json
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.runtimeconfig.json
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.dll
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\bin\Debug\net8.0-windows\FormsEntrega2.pdb
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.Form1.resources
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.csproj.GenerateResource.cache
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.AssemblyInfoInputs.cache
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.AssemblyInfo.cs
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.csproj.CoreCompileInputs.cache
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.dll
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\obj\Debug\net8.0-windows\refint\FormsEntrega2.dll
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.pdb
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\obj\Debug\net8.0-windows\FormsEntrega2.genruntimeconfig.cache
+C:\Users\gubit\Desktop\ENTREGA 2 REDES\FormsEntrega2\obj\Debug\net8.0-windows\ref\FormsEntrega2.dll
