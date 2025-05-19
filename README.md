@@ -11,7 +11,7 @@ Vide tutoriais do PI.
 </p>
 
 # Nome do Projeto
-
+<b>FlexHouse</b>
 ## Nome do Grupo
 <b>42</b>
 ## Integrantes: <a href="https://www.linkedin.com/in/gustavobitencourts/">Gustavo Bitencourt Silva</a>, <a href="https://www.linkedin.com/in/jorge-alves-marinho/">Jorge Alves Marinho</a>, <a href="https://www.linkedin.com/in/matheus-breda-andreo-6796b1350/">Matheus Breda Andreo</a>, <a href="https://www.linkedin.com/in/caio-araujo-fonseca-aa6573260/">Caio Araujo Fonseca</a>
@@ -26,7 +26,7 @@ Vide tutoriais do PI.
 </p>
 
 
-Economize energia, ganhe em conforto e viva de forma inteligente com a Flex Automation!
+Economize energia, ganhe em conforto e viva de forma inteligente com o FlexHouse!
 <br>
 A crescente preocupação com o meio ambiente e o avanço da tecnologia nos inspiram a criar lares mais sustentáveis. Pensando nisso, apresentamos uma solução inovadora para a gestão eficiente do consumo de energia na sua casa. Imagine ter o controle total dos seus dispositivos residenciais em uma interface intuitiva e acessível. Visualize seu consumo energético em tempo real e receba dicas personalizadas para otimizar o uso dos recursos.
 <br>
