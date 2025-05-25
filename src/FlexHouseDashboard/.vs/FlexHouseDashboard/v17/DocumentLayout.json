@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7171DC98-38F7-4195-BF73-C63D34C07875}|FlexHouseDashboard\\FlexHouseDashboard.csproj|c:\\users\\gubit\\desktop\\flexhousedashboard\\flexhousedashboard\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7171DC98-38F7-4195-BF73-C63D34C07875}|FlexHouseDashboard\\FlexHouseDashboard.csproj|solutionrelative:flexhousedashboard\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7171DC98-38F7-4195-BF73-C63D34C07875}|FlexHouseDashboard\\FlexHouseDashboard.csproj|C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\flexhousedashboard\\consumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7171DC98-38F7-4195-BF73-C63D34C07875}|FlexHouseDashboard\\FlexHouseDashboard.csproj|solutionrelative:flexhousedashboard\\consumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7171DC98-38F7-4195-BF73-C63D34C07875}|FlexHouseDashboard\\FlexHouseDashboard.csproj|C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\flexhousedashboard\\consumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7171DC98-38F7-4195-BF73-C63D34C07875}|FlexHouseDashboard\\FlexHouseDashboard.csproj|solutionrelative:flexhousedashboard\\consumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7171DC98-38F7-4195-BF73-C63D34C07875}|FlexHouseDashboard\\FlexHouseDashboard.csproj|C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\flexhousedashboard\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7171DC98-38F7-4195-BF73-C63D34C07875}|FlexHouseDashboard\\FlexHouseDashboard.csproj|solutionrelative:flexhousedashboard\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7171DC98-38F7-4195-BF73-C63D34C07875}|FlexHouseDashboard\\FlexHouseDashboard.csproj|C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\flexhousedashboard\\notifica\u00E7\u00F5es.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7171DC98-38F7-4195-BF73-C63D34C07875}|FlexHouseDashboard\\FlexHouseDashboard.csproj|solutionrelative:flexhousedashboard\\notifica\u00E7\u00F5es.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7171DC98-38F7-4195-BF73-C63D34C07875}|FlexHouseDashboard\\FlexHouseDashboard.csproj|C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\flexhousedashboard\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7171DC98-38F7-4195-BF73-C63D34C07875}|FlexHouseDashboard\\FlexHouseDashboard.csproj|solutionrelative:flexhousedashboard\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\FlexHouseDashboard\\Login.cs",
+              "RelativeDocumentMoniker": "FlexHouseDashboard\\Login.cs",
+              "ToolTip": "C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\FlexHouseDashboard\\Login.cs [Design]",
+              "RelativeToolTip": "FlexHouseDashboard\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:07:51.002Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notifica\u00E7\u00F5es.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\FlexHouseDashboard\\Notifica\u00E7\u00F5es.cs",
+              "RelativeDocumentMoniker": "FlexHouseDashboard\\Notifica\u00E7\u00F5es.cs",
+              "ToolTip": "C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\FlexHouseDashboard\\Notifica\u00E7\u00F5es.cs [Design]",
+              "RelativeToolTip": "FlexHouseDashboard\\Notifica\u00E7\u00F5es.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:57:49.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Principal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\FlexHouseDashboard\\Principal.cs",
+              "RelativeDocumentMoniker": "FlexHouseDashboard\\Principal.cs",
+              "ToolTip": "C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\FlexHouseDashboard\\Principal.cs [Design]",
+              "RelativeToolTip": "FlexHouseDashboard\\Principal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:00:33.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Consumo.cs",
+              "DocumentMoniker": "C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\FlexHouseDashboard\\Consumo.cs",
+              "RelativeDocumentMoniker": "FlexHouseDashboard\\Consumo.cs",
+              "ToolTip": "C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\FlexHouseDashboard\\Consumo.cs",
+              "RelativeToolTip": "FlexHouseDashboard\\Consumo.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwHgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:40:51.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consumo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\FlexHouseDashboard\\Consumo.cs",
+              "RelativeDocumentMoniker": "FlexHouseDashboard\\Consumo.cs",
+              "ToolTip": "C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\FlexHouseDashboard\\Consumo.cs [Design]",
+              "RelativeToolTip": "FlexHouseDashboard\\Consumo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:40:44.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\FlexHouseDashboard\\Dashboard.cs",
+              "RelativeDocumentMoniker": "FlexHouseDashboard\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\gubit\\Desktop\\FlexHouseDashboard\\FlexHouseDashboard\\Dashboard.cs [Design]",
+              "RelativeToolTip": "FlexHouseDashboard\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:55:28.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
